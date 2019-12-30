@@ -27,6 +27,11 @@ li{
 
 
 .info{
-  border-top: 4px solid #000000;
+  border-top: 6px solid #000000;
+  border-bottom: 2px solid #000000;
+}
+
+
+.followblock{
   border-bottom: 2px solid #000000;
 }
