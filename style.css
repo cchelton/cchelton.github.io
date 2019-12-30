@@ -35,3 +35,8 @@ li{
 .followblock{
   border-bottom: 2px solid #000000;
 }
+
+
+#jobdesc{
+  font-style: italic;
+}
