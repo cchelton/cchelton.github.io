@@ -40,3 +40,7 @@ li{
 #jobdesc{
   font-style: italic;
 }
+
+#picture{
+  float: right;
+}
