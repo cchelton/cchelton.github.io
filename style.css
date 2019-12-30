@@ -1,6 +1,6 @@
 p{
   font-family: 'Garamond', 'Georgia', 'Times New Roman', 'serif';
-  font-size: 16px;
+  font-size: 14px;
 }
 
 h1{
@@ -11,14 +11,14 @@ h1{
 
 h3{
   font-family: 'Garamond', 'Georgia', 'Times New Roman', 'serif';
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   font-style: italic;
 }
 
 li{
   font-family: 'Garamond', 'Georgia', 'Times New Roman', 'serif';
-  font-size: 18px;
+  font-size: 12px;
 }
   
 .resume{
