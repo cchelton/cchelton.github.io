@@ -24,3 +24,9 @@ li{
 .resume{
   margin: 20px;
 }
+
+
+.info{
+  border-top: 4px solid #000000;
+  border-bottom: 2px solid #000000;
+}
